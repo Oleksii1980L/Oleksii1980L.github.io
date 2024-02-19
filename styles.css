@@ -1,0 +1,35 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #ff3366;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+#functionalities {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #3366cc;
+    font-weight: bold;
+}
